@@ -1,0 +1,6 @@
+func(4):
+  string = []
+  for i in string:
+    if i + 4 > 26
+      string += (i + 4 - 26)
+      
